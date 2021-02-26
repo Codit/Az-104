@@ -1,5 +1,7 @@
 # Az-104
 
+<p>Required labs files can be <a href="https://github.com/mcttrainer/Az-104/blob/main/Labs_Files.zip">DOWNLOADED HERE</a></p>
+
 <p>Hyperlinks to each of the lab exercises are listed below.</p>
 
 <h2 id="labs">Labs</h2>
