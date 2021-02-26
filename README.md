@@ -1,9 +1,5 @@
 # Az-104
 
-        <main>
-            <article class="mb-5 pb-3">
-                <h1 id="content-directory">Content Directory</h1><p>Required labs files can be <a href="https://github.com/mcttrainer/Az-104/blob/main/Labs_Files.zip">DOWNLOADED HERE</a></p>
-
 <p>Hyperlinks to each of the lab exercises are listed below.</p>
 
 <h2 id="labs">Labs</h2>
