@@ -83,24 +83,3 @@
   </tbody>
 </table>
 
-
-            </article>
-        </main>
-    </div>
-    <footer class="fixed-bottom d-print-none">
-        <nav class="navbar navbar-light bg-light d-flex justify-content-around">
-            <span class="navbar-text">
-                <i class="fa fa-github" aria-hidden="true"></i>
-                <a href="https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator" target="_blank" class="ml-2">
-                    MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
-                </a>
-            </span>
-        </nav>
-    </footer>
-    <script src="./AZ-104-MicrosoftAzureAdministrator_files/jquery-3.2.1.slim.min.js.download" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="./AZ-104-MicrosoftAzureAdministrator_files/popper.min.js.download" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="./AZ-104-MicrosoftAzureAdministrator_files/bootstrap.min.js.download" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-
-
-</body></html>
